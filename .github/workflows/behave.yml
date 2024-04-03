@@ -29,4 +29,3 @@ jobs:
     - name: Run Behave Tests
       run: behave Features
       working-directory: .
-      continue-on-error: true
