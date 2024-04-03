@@ -1,0 +1,5 @@
+selenium
+allure-behave==2.13.5
+allure-python-commons==2.13.5
+behave==1.2.6
+requests
